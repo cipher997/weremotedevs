@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weremotedevs/static/css/main.22a65e75.css",
+    "main.js": "/weremotedevs/static/js/main.d1c8b59b.js",
+    "static/js/787.71cf157b.chunk.js": "/weremotedevs/static/js/787.71cf157b.chunk.js",
+    "static/media/Career-Handbook-2023.pdf": "/weremotedevs/static/media/Career-Handbook-2023.c216ddaed764b7002b17.pdf",
+    "static/media/portfolio3.jpg": "/weremotedevs/static/media/portfolio3.34142b47928b6c797fea.jpg",
+    "static/media/portfolio6.jpg": "/weremotedevs/static/media/portfolio6.b7b2f8cc9afe3fa62213.jpg",
+    "static/media/portfolio1.jpg": "/weremotedevs/static/media/portfolio1.8641eac9fbc0f96ace3d.jpg",
+    "static/media/portfolio5.jpg": "/weremotedevs/static/media/portfolio5.99954ad90195970be248.jpg",
+    "index.html": "/weremotedevs/index.html",
+    "main.22a65e75.css.map": "/weremotedevs/static/css/main.22a65e75.css.map",
+    "main.d1c8b59b.js.map": "/weremotedevs/static/js/main.d1c8b59b.js.map",
+    "787.71cf157b.chunk.js.map": "/weremotedevs/static/js/787.71cf157b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a65e75.css",
+    "static/js/main.d1c8b59b.js"
+  ]
+}
